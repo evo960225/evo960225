@@ -1,4 +1,4 @@
-## 🌟 Welcome to the hoshiko base!
+## 🌟 Welcome to the hashcode base!
 👾 Independent game enthusiast.<br>
 🎲 Board game enthusiast.
 
