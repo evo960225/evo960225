@@ -1,5 +1,5 @@
 ## 🌟 Welcome to the hashcode base!
-- 👾 Independent game enthusiast.<br>
+- 👾 Indie game enthusiast.<br>
 - 🎲 Board game enthusiast.
 
 ![](https://raw.githubusercontent.com/evo960225/evo960225/main/profile-summary-card-output/codeSTACKr/0-profile-details.svg)
